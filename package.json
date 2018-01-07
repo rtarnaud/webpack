@@ -1,6 +1,6 @@
 {
   "name": "webpack-no-postintall-fail",
-  "version": "3.10.2",
+  "version": "3.10.3",
   "author": "Razvan Tarnaud <razvan.tarnaud@gmail.com>",
   "description": "Fork package to update uglifyjs-webpack-plugin dependency version from ^0.4.6 to ^1.1.6 in order to avoid npm install issues (see https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/117)",
   "dependencies": {
