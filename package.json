@@ -1,8 +1,8 @@
 {
-  "name": "webpack",
-  "version": "3.10.0",
-  "author": "Tobias Koppers @sokra",
-  "description": "Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jsx, es7, css, less, ... and your custom stuff.",
+  "name": "webpack-no-postintall-fail",
+  "version": "3.10.1",
+  "author": "Razvan Tarnaud <razvan.tarnaud@gmail.com>",
+  "description": "Fork package to update uglifyjs-webpack-plugin dependency version from ^0.4.6 to ^1.1.6 in order to avoid npm install issues (see https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/117)",
   "dependencies": {
     "acorn": "^5.0.0",
     "acorn-dynamic-import": "^2.0.0",
