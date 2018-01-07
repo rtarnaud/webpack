@@ -1,0 +1,14 @@
+/node_modules
+/test
+/benchmark
+/ci
+/examples
+*.yml
+*.yaml
+.vscode
+.editorconfig
+.eslintrc.js
+.gitignore
+.gitattributes
+.jsbeautifyrc
+CONTRIBUTING.md
